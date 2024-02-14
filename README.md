@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**halorrr/halorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mmenanno/mmenanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,4 @@ I'm a Ruby and Rails developer. Always excited to contribute to open source and 
 
 I'm the author of the [lunchmoney gem](https://rubygems.org/gems/lunchmoney) (API client library for [LunchMoney](http://lunchmoney.app/))
 
-You can find some userscripts I've written [here](https://github.com/halorrr/userscripts/blob/main/README.md).
+You can find some userscripts I've written [here](https://github.com/mmenanno/userscripts/blob/main/README.md).
