@@ -2,7 +2,7 @@
 
 I'm a Ruby and Rails developer. Always excited to contribute to open source and learn new things.
 
-I'm the author of the [lunchmoney gem](https://rubygems.org/gems/lunchmoney) (API client library for [LunchMoney](http://lunchmoney.app/))
+I'm the author of the [lunchmoney gem](https://rubygems.org/gems/lunchmoney) (Ruby API client library for [LunchMoney](http://lunchmoney.app/))
 
 You can find some userscripts I've written [here](https://github.com/mmenanno/userscripts).
 
