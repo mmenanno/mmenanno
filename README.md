@@ -10,6 +10,6 @@ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,graphql,mysql,sqlite,redis,js,ts,githubactions)](https://skillicons.dev)
 
-[![mmenanno's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmenanno&show=reviews,prs_merged&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![mmenanno's GitHub stats](https://github-readme-stats-xi-rosy-38.vercel.app/api?username=mmenanno&show=reviews,prs_merged&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmenanno&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
