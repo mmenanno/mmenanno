@@ -12,4 +12,4 @@ Languages and Tools:
 
 [![mmenanno's GitHub stats](https://github-readme-stats-pnez.vercel.app/api?username=mmenanno&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-pnez.vercel.app/api/top-langs/?username=mmenanno&theme=dark&exclude_repo=github-readme-stats,collections-test)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pnez.vercel.app/api/top-langs/?username=mmenanno&theme=dark&exclude_repo=github-readme-stats,collections-test&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
