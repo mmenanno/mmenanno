@@ -14,4 +14,4 @@ Languages and Tools:
 
 [![Top Langs](https://github-readme-stats-pnez.vercel.app/api/top-langs/?username=mmenanno&theme=dark&exclude_repo=github-readme-stats,collections-test&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mmenanno)
+<a href="https://www.buymeacoffee.com/mmenanno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
