@@ -8,7 +8,7 @@ You can find some userscripts I've written [here](https://github.com/mmenanno/us
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,graphql,mysql,sqlite,redis,js,ts,githubactions,py,bash,git,cloudflare,docker,regex,ubuntu&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,graphql,mysql,sqlite,redis,js,ts,githubactions,py,bash,git,cloudflare,docker,regex,ubuntu,nix&perline=6)](https://skillicons.dev)
 
 [![mmenanno's GitHub stats](https://github-readme-stats-pnez.vercel.app/api?username=mmenanno&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&exclude_repo=github-readme-stats,collections-test)](https://github.com/anuraghazra/github-readme-stats)
 
