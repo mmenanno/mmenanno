@@ -20,11 +20,11 @@
 
 ## GitHub Stats & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mmenanno&theme=dark)](https://git.io/streak-stats)
-
 ![GitHub Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mmenanno&theme=dark)](https://git.io/streak-stats)
 
 ## ☕ Support My Work
 
