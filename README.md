@@ -22,7 +22,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mmenanno&theme=dark)](https://git.io/streak-stats)
 
-![Metrics](https://github.com/mmenanno/mmenanno/blob/main/github-metrics.svg)
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ## ☕ Support My Work
 

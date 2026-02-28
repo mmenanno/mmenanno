@@ -1,30 +1,40 @@
-name: Metrics
+name: Update README cards
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 3 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: gh-metrics/metrics@master
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
+          path: profile/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: mmenanno
-          base_indepth: yes
-          base_hireable: yes
-          config_timezone: America/New_York
-          repositories_affiliations: owner, collaborator, organization_member
 
-          plugin_isocalendar: yes
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark
+          path: profile/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          plugin_languages: yes
-          plugin_languages_other: yes
-
-          plugin_notable: yes
-
-          plugin_achievements: yes
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards - [Skip GitHub Action]" || exit 0
+          git push
