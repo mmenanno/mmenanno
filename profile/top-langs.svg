@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="131.85"
+          width="131.83"
           height="8"
           fill="#701516"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="131.85"
+          x="131.83"
           y="0"
           width="51.09"
           height="8"
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="182.94"
+          x="182.92000000000002"
           y="0"
-          width="28.4"
+          width="28.41"
           height="8"
           fill="#89e051"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="211.34"
+          x="211.33"
           y="0"
-          width="25.09"
+          width="25.08"
           height="8"
           fill="#f1e05a"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.43"
+          x="236.41000000000003"
           y="0"
           width="16.82"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.25"
+          x="243.23000000000002"
           y="0"
-          width="16.75"
+          width="16.77"
           height="8"
           fill="#7e7eff"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 52.74%
+        Ruby 52.73%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#7e7eff" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nix 2.70%
+        Nix 2.71%
       </text>
     </g>
   </g></g>
