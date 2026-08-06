@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="178.12"
+          width="178.1"
           height="8"
           fill="#701516"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="178.12"
+          x="178.1"
           y="0"
-          width="32.25"
+          width="32.24"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="210.37"
+          x="210.34"
           y="0"
-          width="18.34"
+          width="18.33"
           height="8"
           fill="#00ADD8"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.71"
+          x="228.67000000000002"
           y="0"
           width="12.08"
           height="8"
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.79000000000002"
+          x="240.75000000000003"
           y="0"
           width="16.53"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.32000000000002"
+          x="247.28000000000003"
           y="0"
-          width="12.69"
+          width="12.72"
           height="8"
           fill="#7e7eff"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 71.25%
+        Ruby 71.24%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#7e7eff" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nix 1.08%
+        Nix 1.09%
       </text>
     </g>
   </g></g>
