@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="178.66"
+          width="178.56"
           height="8"
           fill="#701516"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="178.66"
+          x="178.56"
           y="0"
-          width="31.98"
+          width="31.95"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="210.64"
+          x="210.51"
           y="0"
-          width="18.18"
+          width="18.17"
           height="8"
           fill="#00ADD8"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.82"
+          x="228.68"
           y="0"
-          width="11.98"
+          width="11.97"
           height="8"
           fill="#89e051"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.79999999999998"
+          x="240.65"
           y="0"
           width="16.47"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.26999999999998"
+          x="247.12"
           y="0"
-          width="12.73"
+          width="12.9"
           height="8"
           fill="#7e7eff"
         />
@@ -191,14 +191,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 71.46%
+        Ruby 71.42%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 12.79%
+        JavaScript 12.78%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#7e7eff" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nix 1.09%
+        Nix 1.16%
       </text>
     </g>
   </g></g>
