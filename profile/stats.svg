@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michael Menanno's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 6005, Total PRs: 2855, Total Issues: 2128, Contributed to (last year): 19</desc>
+        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 6010, Total PRs: 2860, Total Issues: 2130, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.717467025817;
+        stroke-dashoffset: 67.71746699191723;
       }
     }
   
